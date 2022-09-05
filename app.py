@@ -35,6 +35,7 @@ with col4:
     Overs=st.number_input('Overs completed')
 with col5:
     wickets=st.number_input('Wickets out')
+#jkhhihii
 
 if st.button('Predict probability'):
     runs_left=target-Score
